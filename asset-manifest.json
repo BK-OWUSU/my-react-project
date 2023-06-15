@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-react-project/static/css/main.30f5e0b5.css",
+    "main.js": "/my-react-project/static/js/main.a88fc550.js",
+    "static/media/bk_owusu.png": "/my-react-project/static/media/bk_owusu.9df778ba790dcd1d5d5f.png",
+    "static/media/img8.jpg": "/my-react-project/static/media/img8.40a145f2080a3fc3edc6.jpg",
+    "static/media/img3.jpg": "/my-react-project/static/media/img3.a9b37b087f0ef4678008.jpg",
+    "static/media/img7.jpg": "/my-react-project/static/media/img7.7dd157fcfdb4f4803e96.jpg",
+    "static/media/img5.jpg": "/my-react-project/static/media/img5.61e83a446397a1d9bcb8.jpg",
+    "static/media/img4.jpg": "/my-react-project/static/media/img4.9f892e59dcecf5d155ca.jpg",
+    "static/media/img6.jpg": "/my-react-project/static/media/img6.356263a86c3dbbb93508.jpg",
+    "static/media/avatar2.jpg": "/my-react-project/static/media/avatar2.5e77ac3d1757945f8b2d.jpg",
+    "static/media/avatar5.jpg": "/my-react-project/static/media/avatar5.5400f937ab00aa049be4.jpg",
+    "static/media/cv.pdf": "/my-react-project/static/media/cv.bdf5227d959a7ebe476c.pdf",
+    "static/media/girl_hood.jpg": "/my-react-project/static/media/girl_hood.489ecd820a7825ea3ae4.jpg",
+    "static/media/avatar3.jpg": "/my-react-project/static/media/avatar3.83862b3f24d37bdb303c.jpg",
+    "static/media/avatar4.jpg": "/my-react-project/static/media/avatar4.29ccb6c2615e8769ebde.jpg",
+    "index.html": "/my-react-project/index.html",
+    "main.30f5e0b5.css.map": "/my-react-project/static/css/main.30f5e0b5.css.map",
+    "main.a88fc550.js.map": "/my-react-project/static/js/main.a88fc550.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f5e0b5.css",
+    "static/js/main.a88fc550.js"
+  ]
+}

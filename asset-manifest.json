@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-project/static/css/main.30f5e0b5.css",
+    "main.css": "/my-react-project/static/css/main.d45307c8.css",
     "main.js": "/my-react-project/static/js/main.a88fc550.js",
     "static/media/bk_owusu.png": "/my-react-project/static/media/bk_owusu.9df778ba790dcd1d5d5f.png",
     "static/media/img8.jpg": "/my-react-project/static/media/img8.40a145f2080a3fc3edc6.jpg",
@@ -16,11 +16,11 @@
     "static/media/avatar3.jpg": "/my-react-project/static/media/avatar3.83862b3f24d37bdb303c.jpg",
     "static/media/avatar4.jpg": "/my-react-project/static/media/avatar4.29ccb6c2615e8769ebde.jpg",
     "index.html": "/my-react-project/index.html",
-    "main.30f5e0b5.css.map": "/my-react-project/static/css/main.30f5e0b5.css.map",
+    "main.d45307c8.css.map": "/my-react-project/static/css/main.d45307c8.css.map",
     "main.a88fc550.js.map": "/my-react-project/static/js/main.a88fc550.js.map"
   },
   "entrypoints": [
-    "static/css/main.30f5e0b5.css",
+    "static/css/main.d45307c8.css",
     "static/js/main.a88fc550.js"
   ]
 }
